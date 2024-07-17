@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-1. **As a** [role] 
-2. **I need** [function] 
-3. **So that** [benefit] 
+1. **As a** hello world
+2. **I need** hello world2
+3. **So that** hi world3
 4. 
 5. ### Details and Assumptions
 6. * [document what you know]
